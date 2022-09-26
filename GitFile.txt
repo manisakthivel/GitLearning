@@ -5,3 +5,4 @@ Welcome to java project
 <td>git add</td>
 <td>git status</td>
 <td>git commit</td>
+<td>git push</td>
