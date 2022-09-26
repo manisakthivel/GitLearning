@@ -1,2 +1,9 @@
 Welcome to java project
-<html>GitHub Comments</html>
+
+<html>GitHub Learning</html>
+<td>git init</td>
+<td>git add</td>
+<td>git status</td>
+<td>git commit</td>
+<td>git remote add origin</td>
+<td>git push</td>
